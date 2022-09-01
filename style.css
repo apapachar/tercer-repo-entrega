@@ -10,8 +10,8 @@
 }
 
 header {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(128,128,128,1) 0%, rgba(201,60,32,1) 35%, rgba(201,60,32,0.4490838571756828) 94%);
+    background: rgb(255,228,234);
+    background: linear-gradient(90deg, rgba(255,228,234,1) 0%, rgba(220,220,220,1) 52%);
     text-align: center;
     padding: 20px 0;
 }
@@ -19,7 +19,7 @@ header {
 nav a {
     display: inline-block;
     text-decoration: none;
-    color: white;
+    color: #696969;
     margin: 0 30px;
     padding: 5px 15px;
     border-radius: 30px;
